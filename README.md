@@ -6,6 +6,8 @@ Senior Software Engineer
 
 * ✉️  You can contact me at [info.epitt92@gmail.com](mailto:info.epitt92@gmail@gmail.com)
 * 🧠  I like to learn new technology and challenges.
+* 🚀  I'm currently working on [Solarity](https://solarity.xyz)
+* 🤝  I'm open to collaborating on interesting projects as a engineer.
 
 ### Skills
 
@@ -17,7 +19,7 @@ Senior Software Engineer
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React/React Hook" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="AngularJS" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
