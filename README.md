@@ -6,7 +6,7 @@ Senior Software Engineer
 
 * ✉️  You can contact me at [info.epitt92@gmail.com](mailto:info.epitt92@gmail@gmail.com)
 * 🧠  I like to learn new technology and challenges.
-* 🚀  I'm currently working on [Solarity](https://solarity.xyz)
+* 🚀  I'm currently working on [Metaruffy](https://metaruffy.io)
 * 🤝  I'm open to collaborating on interesting projects as a engineer.
 
 ### Skills
