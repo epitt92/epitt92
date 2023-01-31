@@ -5,9 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 -----------------
 
-* ✉️  You can contact me at [ilce@metaruffy.io](mailto:ilce@metaruffy.io)
+* ✉️  You can contact me at [info@epitt92@gmail.com](mailto:info.epitt92@gmail.com)
 * 🧠  I like to learn new technology and challenges.
-* 🚀  I'm currently working on [Metaruffy](https://metaruffy.io)
 * 🤝  I'm open to collaborating on interesting projects as a engineer.
 
 ### Skills
